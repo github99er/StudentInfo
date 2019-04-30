@@ -1,2 +1,0 @@
-# StudentInfo
-Created with CodeSandbox
