@@ -4,7 +4,7 @@ Created with [CodeSandbox](https://codesandbox.io)
 ## Built With
 * [ReactJS](https://reactjs.org/) - Library
 * [Material-UI](https://github.com/mui-org/material-ui)
-[Material-Table](https://github.com/mbrn/material-table)
+- [Material-Table](https://github.com/mbrn/material-table)
 
 ## Example
 
